@@ -1,0 +1,2 @@
+# Green-Hydrogen-Infrastructure-Mapping-and_Optimization
+Identifying where to grow the hydrogen ecosystem requires a map-based tool that visualizes all existing/planned assets (plants, storage, pipelines, distribution hubs) and uses data-driven models to guide new investments. This problem involves creating an interactive map layered with infrastructure data, renewable energy sources, demand centres.
